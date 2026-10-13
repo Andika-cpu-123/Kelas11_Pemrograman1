@@ -22,7 +22,7 @@ Empat belas chapter dibagi tiga tahap: front-end (1 sampai 8), data dan framewor
 | 13  | CI/CD dan deployment: environment variable, database production di Supabase (PostgreSQL), GitHub Actions, deploy ke Render                                                                                                                                                                                                     | Aplikasi perpustakaan                                 | Menyiapkan konfigurasi production, membangun pipeline CI/CD, dan men-deploy aplikasi                 | Aplikasi live di Render dengan database Supabase, pipeline jalan tiap push ke main                        |
 | 14  | Final project: penyempurnaan aplikasi perpustakaan (fitur tambahan, perbaikan bug), README dan dokumentasi                                                                                                                                                                                                                     | Aplikasi perpustakaan (proyek akhir)                  | Menyelesaikan aplikasi lengkap dari repositori sampai URL publik                                     | Aplikasi final yang live, repo GitHub, dan README                                                         |
 
-
+## Topik dan Materi dapat berubah menyesuaikan kemampuan mahasiswa
 
 # git scm
 Download git-scm dari https://git-scm.com/downloads <br>
